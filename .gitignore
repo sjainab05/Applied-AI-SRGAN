@@ -1,0 +1,24 @@
+# Dataset
+Dataset.zip
+dogs-vs-cats-classification/
+dataset/
+
+# SRGAN generated images
+srgan_generated/
+
+# Checkpoints
+checkpoints/
+srgan/checkpoints/
+
+# Large model files
+*.keras
+*.h5
+
+# TensorBoard
+logs/
+srgan/logs/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
